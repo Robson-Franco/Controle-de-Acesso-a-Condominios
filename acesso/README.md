@@ -1,6 +1,8 @@
 ##Controle-de-Acesso-a-Condominios##
 
-|05/06/2026| 
+|05/06/2026| Criar estrutura inicial do projeto Spring Boot
+- Foi criada a estrutura padrão para o projeto, separação de pacotes
+- Feita a configuração do banco
 
 ## Como rodar localmente
 - git clone https://github.com/Robson-Franco/Sistema-de-Controle-de-Acesso-a-Condominios.git
