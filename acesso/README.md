@@ -1,5 +1,7 @@
 ##Controle-de-Acesso-a-Condominios##
 
+
+|05/06/2026| Criação da entidade User
 |05/06/2026| Criar estrutura inicial do projeto Spring Boot
 - Foi criada a estrutura padrão para o projeto, separação de pacotes
 - Feita a configuração do banco
